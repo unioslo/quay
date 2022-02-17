@@ -6,7 +6,7 @@
 [PROJQUAY-3235](https://issues.redhat.com/browse/PROJQUAY-3235).  It tracks the
 `redhat-3.6` release branch and publishes a container image to
 [ghcr.io/unioslo/quay](https://ghcr.io/unioslo/quay).
-[List of changes](https://github.com/quay/quay/compare/quay:redhat-3.6..unioslo:uio-3.6).
+[List of changes](https://github.com/quay/quay/compare/quay:redhat-3.6...unioslo:uio-3.6).
 
 [releases]: https://github.com/quay/quay/releases
 
