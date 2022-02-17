@@ -1,10 +1,12 @@
 # Project Quay
 
-![CI](https://github.com/quay/quay/workflows/CI/badge.svg?branch=master)
-[![Container Repository on Quay](https://quay.io/repository/projectquay/quay/status "Container Repository on Quay")](https://quay.io/repository/projectquay/quay)
+![CI](https://github.com/unioslo/quay/workflows/CI/badge.svg?branch=uio-3.6)
 
-:warning: The `master` branch may be in an *unstable or even broken state* during development.
-Please use [releases] instead of the `master` branch in order to get stable software.
+:warning: This a fork of [quay/quay](https://github.com/quay/quay) with a fix for
+[PROJQUAY-3235](https://issues.redhat.com/browse/PROJQUAY-3235).  It tracks the
+`redhat-3.6` release branch and publishes a container image to
+[ghcr.io/unioslo/quay](https://ghcr.io/unioslo/quay).
+[List of changes](https://github.com/quay/quay/compare/quay:redhat-3.6..unioslo:uio-3.6).
 
 [releases]: https://github.com/quay/quay/releases
 
